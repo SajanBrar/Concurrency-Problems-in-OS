@@ -1,6 +1,3 @@
-// Sajanjit Singh Brar 
-// 20124087
-// OS Lab - 7.2
 // Dining Philosopher Problem
 
 import java.lang.Thread;
