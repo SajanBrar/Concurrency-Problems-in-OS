@@ -1,6 +1,3 @@
-// Sajanjit Singh Brar 
-// 20124087
-// OS Lab - 5
 // Producer Consumer Problem
 
 import java.lang.Thread;
