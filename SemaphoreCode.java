@@ -1,5 +1,3 @@
-// Sajanjit Singh Brar
-// 20124087
 // Semaphore
 
 import java.lang.Thread;
