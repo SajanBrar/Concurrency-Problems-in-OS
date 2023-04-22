@@ -1,6 +1,3 @@
-// Sajanjit Singh Brar 
-// 20124087
-// OS Lab - 7 (Repeat)
 // Sleeping Barber Problem
 
 import java.lang.Thread;
